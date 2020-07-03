@@ -15,7 +15,7 @@ def sms_reply():
     msg = request.form.get('Body')
     phone_no = request.form.get('From')
     reply = fetch_reply(msg,phone_no)
-    # Create reply
+    # Cria resposta
     resp = MessagingResponse()
     resp.message(reply)
 
@@ -23,3 +23,4 @@ def sms_reply():
 
 if __name__ == "__main__":
     app.run(debug=True)
+    
