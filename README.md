@@ -5,6 +5,7 @@ Chatbot para Whatsapp que disponibiliza livros em diversos formatos
 
 # Quem é Leco?
 Leco é o nosso chatbot para Whatsapp que vai reacender o interesse de milhões de jovens pela leitura. Nós o desenvolvemos para o desafio da [Árvore Educação](https://arvoreeducacao.com.br/) na [3ª edição do Mega Hack](https://www.megahack.com.br/). 
+[Veja nosso vídeo Demo](https://www.youtube.com/watch?v=4pH9-_CUQrk&feature=youtu.be)
 
 # Como criamos o Leco?
 O Leco funciona a partir de duas APIs e uma aplicação Python com Flask, hospedada no Heroku, que faz a integração dessas APIs.
